@@ -5,6 +5,7 @@ categories:
   - 101
 tags:
   - CS
+  - AI
 date: 2022-12-10 20:26:23
 ---
 {% asset_img 1.png %}
