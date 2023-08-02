@@ -181,6 +181,11 @@ cloudflare_analytics:
   enabled: false
   id: 
 
+# google_analytics
+google_analytics:
+  enabled: true
+  id: G-18ZNM47DVY
+  
 # Fill in your Umami Analytics tracking ID to enable Umami Analytics.
 umami_analytics:
   enabled: false

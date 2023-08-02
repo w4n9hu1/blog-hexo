@@ -96,6 +96,17 @@
 <% if (theme.cloudflare_analytics.enabled && theme.cloudflare_analytics.id){ %>
   <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "<%= theme.cloudflare_analytics.id %>"}'></script>
 <% } %>
+<!-- Google Analytics -->
+<% if (theme.google_analytics.enabled && theme.google_analytics.id){ %>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-<%= theme.google_analytics.id %>"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '<%= theme.google_analytics.id %>');
+  </script>
+<% } %>
 <!-- Disqus Comments -->
 <% if (page.comments && theme.disqus.enabled && theme.disqus.shortname){ %>
     <script type="text/javascript">
