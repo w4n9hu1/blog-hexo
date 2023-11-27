@@ -12,14 +12,13 @@ date: 2023-05-28 21:17:04
 3. [框架设计指南：构建可复用.NET库的约定、惯例与模式（第3版）](https://book.douban.com/subject/36308103/) ★★★✰✰
 4. [Azure、DevOps和微服务软件架构实战（第2版）](https://book.douban.com/subject/36159954/) ★★✰✰✰
 5. [ES6标准入门](https://book.douban.com/subject/27127030/) ★★★✰✰
-6. [Spring实战（第4版）](https://book.douban.com/subject/26767354/) 
 
 ## Non-Tech
 
 1. [置身事内](https://book.douban.com/subject/35546622/) ★★★★✰
 2. [他改变了中国](https://book.douban.com/subject/1264491/) ★★★★★
 3. [美的历程](https://book.douban.com/subject/35337865/) ★★★★✰
-4. [埃隆·马斯克传](https://book.douban.com/subject/36518892/)
+4. [埃隆·马斯克传](https://book.douban.com/subject/36518892/) ★★★✰✰
 
 # 2022
 
