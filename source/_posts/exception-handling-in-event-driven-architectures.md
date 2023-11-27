@@ -2,7 +2,7 @@
 title: 事件驱动架构中的异常处理
 description: 事件驱动架构中的异常处理最佳实践。
 categories:
-  - 分布式
+  - 架构
 tags:
   - 微服务
   - 架构

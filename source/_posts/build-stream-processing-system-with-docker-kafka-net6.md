@@ -2,7 +2,7 @@
 title: 使用Docker/Kafka/.Net6搭建流处理系统
 description: 一个使用Docker、Kafka、.Net6搭建，基于事件驱动的Demo。
 categories:
-  - 分布式
+  - 架构
 tags:
   - Docker
   - Kafka
