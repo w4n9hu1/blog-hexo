@@ -2,9 +2,8 @@
 title: 程序员的软技能
 description: 编码之外的软技能。
 categories:
-  - 软技能
+  - 未分类
 tags:
-  - 软技能
 date: 2023-02-09 22:23:57
 ---
 

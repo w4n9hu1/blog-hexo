@@ -2,7 +2,7 @@
 title: 什么是持续交付
 description: 真正的价值+小步快跑+好的自动化测试+持续监测与反馈。
 categories:
-  - 101
+  - 基础
 tags:
   - DevOps
 date: 2022-07-27 17:13:35

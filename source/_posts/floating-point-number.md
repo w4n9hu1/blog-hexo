@@ -2,10 +2,8 @@
 title: 什么是浮点数
 description: 为什么会有误差，什么是浮点数？
 categories:
-  - 101
+  - 基础
 tags:
-  - CS
-  - AI
 date: 2022-12-10 20:26:23
 ---
 {% asset_img 1.png %}

@@ -2,7 +2,7 @@
 title: 什么是kubernetes
 description: 什么是kubernetes，传统行业是否需要kubernetes？
 categories:
-  - 101
+  - 基础
 tags:
   - DevOps
   - Docker

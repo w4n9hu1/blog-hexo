@@ -2,10 +2,9 @@
 title: 中国近代史
 description: 《中国近代史》笔记，抽空看了下册，对近代史有了个大体认知。
 categories:
-  - 读书笔记
+  - 未分类
 date: 2022-05-03 22:22:31
 tags:
-  - Personal
 ---
 
 <img src="0.png" width="50%" height="50%">
