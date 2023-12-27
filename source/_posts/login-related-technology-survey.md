@@ -5,7 +5,8 @@ categories:
   - 架构
 date: 2021-06-13 11:20:19
 tags:
-  - CS
+  - OAuth
+  - CAS
 ---
 
 ## 开放授权 OAuth（ The OAuth 2.0 Authorization Framework）

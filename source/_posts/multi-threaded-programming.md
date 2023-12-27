@@ -1,11 +1,9 @@
 ---
-title: 多线程编程
+title: 什么是多线程编程
 description: 什么是多线程编程，为什么会有线程安全问题。
 categories:
-  - 编码
+  - 基础
 tags:
-  - CS
-  - .Net
 date: 2022-12-22 20:26:04
 ---
 

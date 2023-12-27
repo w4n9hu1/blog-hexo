@@ -2,9 +2,8 @@
 title: 算法入门
 description: 由一道LeetCode题展开，好的算法与差的算法的差异。
 categories:
-  - 101
+  - 基础
 tags:
-  - CS
 date: 2022-11-13 17:31:49
 ---
 

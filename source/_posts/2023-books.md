@@ -2,9 +2,8 @@
 title: 2023杂书书单
 description: 今年多读几本没有目的性的“杂”书。
 categories:
-  - 个人
+  - 未分类
 tags:
-  - Personal
 date: 2023-01-14 18:25:08
 ---
 

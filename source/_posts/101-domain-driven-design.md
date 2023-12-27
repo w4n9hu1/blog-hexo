@@ -2,10 +2,9 @@
 title: 什么是DDD
 description: 什么是DDD？代码怎么落地DDD？
 categories:
-  - 101
+  - 基础
 tags:
   - DDD
-  - 架构
 date: 2022-06-04 18:56:49
 ---
 

@@ -2,7 +2,7 @@
 title: 什么是单元测试
 description: 《Unit Testing Principles, Practices, and Patterns》笔记，讲单元测试思想的一本书，侧重怎么去写一个好的单元测试，什么时候应该使用mock，涉及到一些架构相关知识。
 categories:
-   - 101
+   - 基础
 date: 2022-04-30 15:49:58
 tags:
   - UT
@@ -34,10 +34,10 @@ tags:
 
 London 和 Classical 风格的区别
 
-|School |Isolation of |A unit is |Uses test doubles for |
-|---|---|---|---|
-| London | Units | A class | All but immutable dependencies |
-| Classical | Unit tests |  A class or a set of classes | Shared dependencies |
+| School    | Isolation of | A unit is                   | Uses test doubles for          |
+| --------- | ------------ | --------------------------- | ------------------------------ |
+| London    | Units        | A class                     | All but immutable dependencies |
+| Classical | Unit tests   | A class or a set of classes | Shared dependencies            |
 
 TDD Test-driven development, 在你的测试中 *重复* 3个步骤：
 

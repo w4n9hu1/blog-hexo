@@ -2,9 +2,8 @@
 title: 什么是架构
 description: 怎么写好可维护的代码？
 categories:
-  - 101
+  - 基础
 tags:
-  - 架构
   - DDD
 date: 2022-11-08 22:40:25
 ---

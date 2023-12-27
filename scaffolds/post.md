@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 categories:
-  - coding
+  - 未分类
 tags:
-  - tag
+  - 
 ---

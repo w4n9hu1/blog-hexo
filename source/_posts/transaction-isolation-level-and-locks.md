@@ -25,17 +25,17 @@ date: 2022-10-15 14:41:55
 
 存储引擎提供了2种标准的行级锁：共享锁（S Lock） 和 排他锁（X Lock）。
 
-| | READ | WRITE |
-|---|---|---|
+|                  | READ   | WRITE |
+| ---------------- | ------ | ----- |
 | READ UNCOMMITTED | NoLock | XLock |
-| READ COMMITTED | MVCC | XLock |
-| REPEATABLE READ | MVCC | XLock |
-| SERIALIZABLE | SLock | XLock |
+| READ COMMITTED   | MVCC   | XLock |
+| REPEATABLE READ  | MVCC   | XLock |
+| SERIALIZABLE     | SLock  | XLock |
 
-| | X | S |
-|---|---|---|
-| X | 不兼容 | 不兼容 |
-| S | 不兼容 | 兼容 |
+|     | X      | S      |
+| --- | ------ | ------ |
+| X   | 不兼容 | 不兼容 |
+| S   | 不兼容 | 兼容   |
 
 > MVCC，通过`transaction_id`进行多版本并发控制，InnoDB存储引擎通过读取快照数据极大的提高了数据库的并发性。
 
