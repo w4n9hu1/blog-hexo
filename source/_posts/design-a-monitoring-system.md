@@ -60,3 +60,9 @@ public void Run()
 
 > version 3
 {% asset_img step4.png %}
+
+## 开源方案
+
+> prometheus architecture
+
+{% asset_img architecture.svg %}
