@@ -5,6 +5,12 @@ date: 2023-05-28 21:17:04
 
 # 2023
 
+## Courses
+
+1. [深入浅出现代Web编程](https://fullstackopen.com/zh/)
+2. [System Design: The complete course](https://www.karanpratapsingh.com/blog/system-design-the-complete-course)
+
+
 ## Tech
 
 1. [Google软件工程](https://book.douban.com/subject/35838155/) ★★★✰✰
@@ -12,6 +18,7 @@ date: 2023-05-28 21:17:04
 3. [框架设计指南：构建可复用.NET库的约定、惯例与模式（第3版）](https://book.douban.com/subject/36308103/) ★★★✰✰
 4. [Azure、DevOps和微服务软件架构实战（第2版）](https://book.douban.com/subject/36159954/) ★★✰✰✰
 5. [ES6标准入门](https://book.douban.com/subject/27127030/) ★★★✰✰
+6. [搞定系统设计：面试敲开大厂的门](https://book.douban.com/subject/36661336/) ★★★★✰
 
 ## Non-Tech
 
