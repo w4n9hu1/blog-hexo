@@ -15,9 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  readings: /readings/
   category: /categories/
-  photos: /photos/
+  readings: /readings/
+  # photos: /photos/
   # resume: /resume/
 
 # Links to your social media accounts.
